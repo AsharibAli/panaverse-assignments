@@ -33,4 +33,4 @@ Create a Presentation on (EDGE: THE FUTURE OF WEB). [From Cloud to edge Using Se
 Build 10 TypeScript CLI-Based Project and create the npx commands on that projects. [Github Projects URL](https://github.com/AsharibAli/TypeScript-Assignment-Projects)
 
 ### Tenth Assignemnt:
-Create a Presentation on (Framework Defined Infrastructure). [Next.js and Verecel: Framework Defined Infrastructure](https://www.canva.com/design/DAFfWKU7BZ8/Aq8h1CSJxwnFsPXsM0LFYQ/view)
+Create a Presentation on (Framework Defined Infrastructure). [Next.js and Verecel: Framework Defined Infrastructure](https://www.canva.com/design/DAFdMEamw_Y/Q4ZGDXv5oXMg9mESygIWkw/edit?utm_content=DAFdMEamw_Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
