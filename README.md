@@ -35,4 +35,33 @@ Build 10 TypeScript CLI-Based Project and create the npx commands on that projec
 ### 10th Assignemnt:
 Create a Presentation on (Framework Defined Infrastructure). [Next.js and Verecel: Framework Defined Infrastructure](https://www.canva.com/design/DAFdMEamw_Y/Q4ZGDXv5oXMg9mESygIWkw/edit?utm_content=DAFdMEamw_Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-### 11th Assignment 
+### 11th Assignment:
+Build a "Hello World" simple page Website with Next.js version 13. [Hello From Asharib Repositry](https://github.com/AsharibAli/Next-13-HW)
+
+### 12th Assignment:
+Build a TODO LIST APP with latest Next.js version 13. [Todo List App Repositry](https://github.com/AsharibAli/TODO-LIST-APP)
+
+### 13th Assignment:
+Build & Clone the Figma Design and create it with Chakra UI. [Pricing Ui Project Repositrry](https://github.com/AsharibAli/chakra-ui/tree/master/pricing_ui_project)
+
+### 14th Assignment:
+Build a blog posting website using next.js latest version 13. [Personal Blog Posting Website Repositry](https://github.com/AsharibAli/nextjs-blog)
+
+### 15th Assignment:
+Build a new Panaverse Website with Next.js and TailwindCSS. [Panaverse Website Assignment Repositry](https://github.com/AsharibAli/panaverse-website)
+
+### 16th Assignmnet:
+Build a new Website of "Smart Connet Wallet" using Account Abstraction EIP 4337 packages. [Connect Wallet Assignment Repositry](https://github.com/AsharibAli/smart-wallet-accounts)
+
+### 17th Assignment:
+Biuld your Perosnal Portfolio Website. [Portfolio Website Assignment Repositry](https://github.com/AsharibAli/my-portfolio)
+
+### 18th Assignmnet:
+Create the best tutorial of Learn Solidity in Baby-Steps. [Solidity Assignmnet PR](https://github.com/panaverse/learn-nextjs/pull/25) and [Github Repositry](https://github.com/AsharibAli/Learn-Blockchain-in-BabySteps/tree/master/learn%20solidity)
+
+### 19th Assignmnet:
+Create the best tutorial of Learn Hardhat in Baby-Steps. [Hardhat Assignmnet PR](https://github.com/panaverse/learn-nextjs/pull/25) and [Github Repositry](https://github.com/AsharibAli/Learn-Blockchain-in-BabySteps/tree/master/learn%20hardhat/step00_hardhat_in_baby_steps)
+
+### 20th Assignmnet:
+Create the best tutorial of Learn Dapps Development in Baby-Steps. [Dapps Assignmnet PR](https://github.com/panaverse/learn-nextjs/pull/26) and [Github Repositry](https://github.com/AsharibAli/Learn-Blockchain-in-BabySteps/tree/master/learn%20dapps%20development)
+ 
