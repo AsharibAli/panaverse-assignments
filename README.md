@@ -65,4 +65,7 @@ Create the best tutorial for learning Hardhat in Baby Steps. 👶 [Hardhat Assig
 ### 📝 20th Assignment:
 Create the best tutorial for learning Dapps Development in Baby Steps. 👶 [Dapps Assignment PR](https://github.com/panaverse/learn-nextjs/pull/26) and [GitHub Repository](https://github.com/AsharibAli/Learn-Blockchain-in-BabySteps/tree/master/learn%20dapps%20development)
 
+### ⏏ 21th Assignment: 
+Build a Full Stack E-commerce website with the latest technologies. 👋 [Completed E-commerce website Repositry](https://github.com/AsharibAli/ecommerce-website)
+
 Feel free to explore these assignments and learn more about the exciting world of technology, blockchain, and anything else! 🚀🔥
