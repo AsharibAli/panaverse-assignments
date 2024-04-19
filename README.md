@@ -74,4 +74,10 @@ Create Customized Software using Natural Language Idea (through Multi-Agent Coll
 ### 😛  23th Assignment: 
 Build a Full Stack Headless-cms with (shopify Backend) and (Next.js13 frontend) with latest commerce2.0 framework. 👋 [Completed commerce website Repositry](https://github.com/AsharibAli/shopify-nextjs-commerce2.0)
 
-Feel free to explore these assignments and learn more about the exciting world of technology, blockchain, and anything else! 🚀🔥
+### 📶 24th Assignment:
+Todo application built with Python, FastAPI and Nextjs.
+
+### 🔐 25th Assignment:
+TodoGPT API with crud operations built for OpenAI's GPT-Store.
+
+Feel free to explore these assignments and learn more about the exciting world of technology! 🚀🔥
