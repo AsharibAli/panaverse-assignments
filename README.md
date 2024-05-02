@@ -72,12 +72,15 @@ Build a Full Stack E-commerce website with the latest technologies. 👋 [Comple
 Create Customized Software using Natural Language Idea (through Multi-Agent Collaboration) with ChatDev AI. 👋 [Completed websites Repositry](https://github.com/AsharibAli/projects_with_chatdev)
 
 ### 😛  23th Assignment: 
-Build a Full Stack Headless-cms with (shopify Backend) and (Next.js13 frontend) with latest commerce2.0 framework. 👋 [Completed commerce website Repositry](https://github.com/AsharibAli/shopify-nextjs-commerce2.0)
+Build a Full Stack Headless-cms with (Shopify Backend) and (Next.js13 frontend) with latest commerce2.0 framework. 👋 [Completed commerce website Repositry](https://github.com/AsharibAli/shopify-nextjs-commerce2.0)
 
 ### 📶 24th Assignment:
-Todo application built with Python, FastAPI and Nextjs.
+Todo application built with Python, FastAPI, and Nextjs. [Completed FastAPI Todo Repository with Nextjs](https://github.com/AsharibAli/nextjs-fastapi-todo)
 
 ### 🔐 25th Assignment:
-TodoGPT API with crud operations built for OpenAI's GPT-Store.
+TodoGPT API with crud operations built for OpenAI's GPT-Store. [Completed TodoGPT build with FastAPI](https://github.com/AsharibAli/TodoGPT)
+
+### 26th Assignment:
+Location Finder API for ChatGPT GPT Store [Completed LocationGPT Repository](https://github.com/AsharibAli/LocationGPT)
 
 Feel free to explore these assignments and learn more about the exciting world of technology! 🚀🔥
